@@ -1,0 +1,15 @@
+QSPI.c:19:9:BSP_QSPI_Init	16	static,ignoring_inline_asm
+QSPI.c:66:9:BSP_QSPI_DeInit	8	static
+QSPI.c:89:9:BSP_QSPI_Read	80	static
+QSPI.c:135:9:BSP_QSPI_Write	96	static
+QSPI.c:209:9:BSP_QSPI_Erase_Block	72	static
+QSPI.c:251:9:BSP_QSPI_Erase_Chip	64	static
+QSPI.c:291:9:BSP_QSPI_GetStatus	72	static
+QSPI.c:344:9:BSP_QSPI_GetInfo	16	static
+QSPI.c:360:9:BSP_QSPI_EnableMemoryMappedMode	72	static
+QSPI.c:398:13:BSP_QSPI_MspInit	56	static
+QSPI.c:458:13:BSP_QSPI_MspDeInit	16	static
+QSPI.c:486:16:QSPI_ResetMemory	72	static
+QSPI.c:527:16:QSPI_DummyCyclesCfg	88	static,ignoring_inline_asm
+QSPI.c:585:16:QSPI_WriteEnable	96	static
+QSPI.c:630:16:QSPI_AutoPollingMemReady	96	static

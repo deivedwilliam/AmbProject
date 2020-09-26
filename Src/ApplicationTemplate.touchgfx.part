@@ -1,0 +1,20 @@
+
+{
+  "Application": {
+    "Name": "AmbienteMonitor767",
+    "TouchGfxPath": "../Middlewares/ST/touchgfx",
+    "AvailableColorDepths": [ 24 ],
+    "AvailableLCDs":
+    {
+      "24": "LCD24bpp"
+    },
+    "AvailableResolutions" : [
+      {
+        "Width": 640,
+        "Height": 480
+      }
+    ],
+    "PostGenerateTargetCommand" : "touchgfx update_project --project-file=../AmbienteMonitor767.ioc --platform=m7"
+  },
+  "Version": "4.13.0"
+}

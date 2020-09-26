@@ -1,0 +1,9 @@
+ADV7513.c:20:13:HDMI_IO_Write	32	static
+ADV7513.c:31:16:HDMI_IO_Read	40	static
+ADV7513.c:46:13:ADV7513_ClearBufferCEC	16	static
+ADV7513.c:61:9:ADV7513_Init	8	static
+ADV7513.c:75:6:ADV7513_PowerOn	4	static
+ADV7513.c:104:6:ADV7513_PowerDown	4	static
+ADV7513.c:127:9:ADV7513_ReadDeviceVersion	16	static
+ADV7513.c:136:6:ADV7513_Configure	40	static
+ADV7513.c:406:10:ADV7513_GetDeviceID	16	static
